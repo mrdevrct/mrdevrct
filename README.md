@@ -10,7 +10,7 @@ Front-end Developer
 
 
  <h2>Skills</h2>
- 
+ <h3>LANGUAGE</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
 title="Javascript"/>
