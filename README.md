@@ -1,4 +1,4 @@
-<hr style="animation: colorChange 5s infinite alternate; border-color: red;">
+<hr>
 <h1 align="center">
 Devrct
 </h1>
