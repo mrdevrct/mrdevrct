@@ -3,7 +3,9 @@
     animation: colorChange 5s infinite alternate;
   }
 
-  @keyframes colorChange {
+
+</style>
+<hr style='animation: colorChange 5s infinite alternate;@keyframes colorChange {
     0% {
       border-color: red;
     }
@@ -19,9 +21,7 @@
     100% {
       border-color: blue;
     }
-  }
-</style>
-<hr class= 'line'>
+  }'>
 <h1 align="center">
 Devrct
 </h1>
