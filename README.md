@@ -1,6 +1,4 @@
-<hr style='{animation:colorChange 5s infinite alternate;}@keyframes colorChange{0%{border-color:red;}25%{border-color:orange;}50%{border-color:yellow;}75%{border-color:green;}100%{border-color:blue;}}'>
-
-<hr>
+<hr style="animation: colorChange 5s infinite alternate; border-color: red;">
 <h1 align="center">
 Devrct
 </h1>
