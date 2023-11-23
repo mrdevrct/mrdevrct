@@ -10,7 +10,7 @@ Front-end Developer
 
 
  <h2>Skills</h2>
- <h3>LANGUAGE</h3>
+ <h3>Language</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
 title="Javascript"/>
@@ -27,6 +27,7 @@ title="Bootstrap"/>
 title="Sass"/>
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="36" height="36" alt="Django"
 title="Django"/>
+ <h3>Design</h3>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"
 title="Figma"/>
 
