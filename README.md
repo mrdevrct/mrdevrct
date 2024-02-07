@@ -1,16 +1,12 @@
-![image](https://github.com/Devrct-Front/Devrct-Front/assets/116967445/5b87763a-e8ce-4215-8a4e-d7f74d30478d)<hr>
-<h1 align="center">
-Devrct
-</h1>
-<p align="center">
-Front-end Developer
-</p>
+
+<h1 align="center">Devrct</h1>
+<p align="center">Front-end Developer</p>
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 
- <h2>Skills</h2>
- <h3>Language</h3>
+<h2>Skills</h2>
+<h3>Language</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
 title="Javascript"/>
@@ -20,9 +16,9 @@ title="HTML"/>
 title="CSS"/>
  
  <h3>Framwork</h3>
- <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
- <img src="https://www.iconarchive.com/download/i133192/bootstrap/bootstrap/Bootstrap-regex.1024.png">
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp">
+ <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"  width="36" height="36">
+ <img src="https://www.iconarchive.com/download/i133192/bootstrap/bootstrap/Bootstrap-regex.1024.png"  width="36" height="36">
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp"  width="36" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="tailwind" title="Tailwind" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/>
