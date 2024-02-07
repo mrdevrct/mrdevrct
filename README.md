@@ -5,6 +5,7 @@
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
+<div align="left">
 
 <h2>Skills</h2>
 <h3>Language</h3>
@@ -41,8 +42,8 @@ title="Regex"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"
 title="Figma"/>
 </p>
-    
-    
+ 
+ </div>   
              
              
  <h2> Socials </h2>
