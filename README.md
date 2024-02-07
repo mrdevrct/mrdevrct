@@ -45,7 +45,6 @@ title="VScode"/>
 # Connect with me
 
 <div align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
