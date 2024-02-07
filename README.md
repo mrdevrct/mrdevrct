@@ -9,7 +9,7 @@
 
 <h2>Skills</h2>
 <h3>Language</h3>
-
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 
@@ -18,6 +18,8 @@ title="CSS"/>
 
 <img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
 title="Javascript"/>
+
+</div>
  
 <h3>Framwork</h3>
 
