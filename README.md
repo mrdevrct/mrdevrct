@@ -9,7 +9,7 @@
  
 ### Expertises
 
-> ### Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
@@ -18,7 +18,7 @@ title="CSS"/>
 title="Javascript"/>
 
 
-> ### Frameworks
+### Frameworks
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
@@ -31,7 +31,7 @@ title="Bootstrap"/>
 <img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
 title="Regex"/>
 
-> ### Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
 title="Figma"/>
 <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"
@@ -41,7 +41,7 @@ title="VScode"/>
 </div>
 <hr>
             
-> ### Connect with me
+### Connect with me
 
 <div align="left">
 <a href="mailto:mrdevpct@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" /></a>
