@@ -10,20 +10,15 @@
 ### Expertises
 
 > ### Languages
-<img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
-title="Javascript"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40"  alt="TypeScript"
-title="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"  alt="NodeJS"
-title="NodeJS"/>
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
 title="CSS"/>
+<img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
+title="Javascript"/>
+
 
 > ### Frameworks
-<img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" 
-title="NextJS"/>
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
  <img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
@@ -39,8 +34,6 @@ title="Bootstrap"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
 <img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
 title="Regex"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress"
-title="WordPress"/>
 
 > ### Tools
 <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
@@ -49,8 +42,6 @@ title="Figma"/>
 title="Git"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Vscode"
 title="VScode"/>
-<img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"
-title="Linux"/>
 </div>
 <hr>
             
