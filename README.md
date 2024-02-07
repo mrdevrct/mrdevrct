@@ -9,15 +9,18 @@
 
 <h2>Skills</h2>
 <h3>Language</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
-title="Javascript"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" 
+
+<img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" 
+
+<img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
 title="CSS"/>
+
+<img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
+title="Javascript"/>
  
- <h3>Framwork</h3>
+<h3>Framwork</h3>
+
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
  <img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
