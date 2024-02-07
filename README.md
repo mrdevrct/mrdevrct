@@ -21,10 +21,6 @@ title="Javascript"/>
 > ### Frameworks
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
- <img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
-title="jQuery"/>
-<img src="https://skillicons.dev/icons?i=sass" width="40" alt="Sass"
-title="Sass"/>
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
 <img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
