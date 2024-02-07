@@ -7,7 +7,7 @@
 
 <div align="left">
  
-# Expertises
+### Expertises
 
 # Languages
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
