@@ -22,6 +22,7 @@ title="Javascript"/>
 # Frameworks
 <img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" 
 title="NextJS"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" />
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
