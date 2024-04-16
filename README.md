@@ -26,7 +26,7 @@ title="NextJS"/>
 title="ts"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" />
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
-title="ReactJS"/>ts
+title="ReactJS"/>
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
 <img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
