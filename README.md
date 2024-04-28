@@ -22,20 +22,20 @@ title="Javascript"/>
 # Frameworks
 <img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" 
 title="NextJS"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40" alt="NextJS" 
-title="ts"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" />
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
+<img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" 
+title="ReactJS"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" />
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
+<img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
+title="Regex"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
 <img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
 title="MUI"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"
 title="Bootstrap"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
-<img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
-title="Regex"/>
 
 # Tools
 <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
@@ -50,7 +50,8 @@ title="VScode"/>
 # Connect with me
 
 <div align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+<a href="https://www.linkedin.com/in/seyed-rasool-hosseini-4b52b729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://t.me/DevrctFront" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="40" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" /></a>
+<a href="https://www.instagram.com/0devrct1" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </div>
