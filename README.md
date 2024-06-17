@@ -8,9 +8,8 @@
  
 ### Expertises
 
-# Languages
+# Languages 
  <div>
-  
   <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" title="Javascript"/>
