@@ -3,7 +3,7 @@
 <h1 align="center">Devrct</h1>
 <h3 align="center">Front-end Developer</p>
 <h4 align="center">Seyed Rasool Hosseini</h1>
-<img align="right" z-index="50" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" style="z-index👍" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 <div align="left">
