@@ -4,7 +4,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  
-<img align="right" style="margin-top:200px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 
@@ -15,12 +14,17 @@
 ### Expertises
 
 # Languages
+<div style="display:flex;"> 
+ <div>
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
 title="CSS"/>
 <img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
 title="Javascript"/>
+ </div>
+<img align="right" style="margin-top:200px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</div>
 
 
 # Frameworks
