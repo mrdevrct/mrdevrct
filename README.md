@@ -1,6 +1,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Seyed Rasool Hosseini</h1>
-<h3 align="center">Front-end Developer - Next.js</p>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&random=false&width=435&lines=Hi+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Seyed+Rasool+Hosseini+(mrdevrct)+.;I'm+Front-end+Developer+-+Nextjs%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
