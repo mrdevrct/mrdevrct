@@ -51,6 +51,6 @@ title="VScode"/>
 
 <div align="left">
 <a href="https://t.me/mrdevrct" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="40" /></a>
-<a href="https://www.instagram.com/mrdevrct" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-<a href="https://x.com/MrDevrct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" /></a>
+<a href="https://www.instagram.com/mr._devrct" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+<a href="https://x.com/devrct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" /></a>
 </div>
