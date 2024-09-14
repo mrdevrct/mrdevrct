@@ -27,8 +27,6 @@ title="ReactJS"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" />
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
-<img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
-title="Regex"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
 <img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
 title="MUI"/>
