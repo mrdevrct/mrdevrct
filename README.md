@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   <h1>👋 Hi, I'm Seyed Rasool Hosseini (mrdevrct)</h1>
-  <p>A passionate <strong>Front-end Developer</strong> crafting modern web experiences with <strong>Next.js</strong> 🚀</p>
+  <p>A passionate <strong>Front-end Developer</strong> crafting modern web experiences with <strong>React.js</strong> 🚀</p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
