@@ -28,7 +28,7 @@ interface Developer {
 
 const seyed: Developer = {
   name: "Seyed Rasool Hosseini",
-  role: "Senior Front-end Developer",
+  role: "Front-end Developer",
   
   expertise: [
     "React.js & Next.js Ecosystems",
