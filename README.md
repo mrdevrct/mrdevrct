@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=835&lines=Building+the+future+of+web+experiences;React.js+%7C+Next.js+%7C+TypeScript+Expert;Crafting+pixel-perfect+user+interfaces;Open+to+exciting+collaborations!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=900&lines=Mid-level+MERN+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Crafting+pixel-perfect+UI+%26+building+solid+APIs;Open+to+exciting+collaborations!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Mid--Level-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Iran-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Available%20for-Collaboration-success?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=mrdevrct&style=for-the-badge&color=blueviolet" />
@@ -28,24 +30,28 @@ interface Developer {
 
 const seyed: Developer = {
   name: "Seyed Rasool Hosseini",
-  role: "Front-end Developer",
+  role: "Mid-level MERN Stack Developer (Frontend-focused)",
   
   expertise: [
     "React.js & Next.js Ecosystems",
     "TypeScript & Modern JavaScript",
     "State Management (Redux, Zustand)",
     "Responsive & Accessible Design",
-    "Performance Optimization"
+    "Performance Optimization (Core Web Vitals)",
+    "Node.js & Express.js (REST APIs)",
+    "MongoDB & Data Modeling",
+    "Auth & Security Basics (JWT, hashing, validation)"
   ],
   
   currentFocus: [
-    "🚀 Building scalable web applications",
-    "🎨 Implementing cutting-edge UI/UX patterns",
-    "⚡ Optimizing for Core Web Vitals",
-    "🧩 Creating reusable component libraries"
+    "🚀 Building scalable full-stack web applications",
+    "🎨 Implementing modern UI/UX patterns",
+    "⚡ Optimizing bundles, caching, and Core Web Vitals",
+    "🧩 Creating reusable component libraries",
+    "🔧 Designing clean APIs and maintainable backend services"
   ],
   
-  philosophy: "Clean code, exceptional UX, continuous learning"
+  philosophy: "Clean code, exceptional UX, reliable APIs, continuous learning"
 };
 ```
 
@@ -71,30 +77,34 @@ const seyed: Developer = {
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
   </td>
-  
+
   <td valign="top" width="33%">
     
-### 💅 Styling
+### ⚙️ Backend (MERN)
 <div align="center">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
   </td>
   
   <td valign="top" width="33%">
     
-### 🔧 Tools
+### 💅 Styling & Tools
 <div align="center">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
   </td>
 </tr>
@@ -125,8 +135,8 @@ const seyed: Developer = {
 - ✅ **Modern Architecture**: Component-based, scalable solutions
 - ✅ **Performance First**: Optimized bundles, lazy loading, code splitting
 - ✅ **Type Safety**: TypeScript for maintainable codebases
-- ✅ **Best Practices**: Clean code, SOLID principles, design patterns
-- ✅ **Testing**: Unit, integration, and E2E testing strategies
+- ✅ **Backend Fundamentals**: Clean REST APIs, auth, validation, error handling
+- ✅ **Testing Mindset**: Unit/integration testing strategies
 
 </td>
 <td width="50%">
@@ -134,9 +144,9 @@ const seyed: Developer = {
 ### 🚀 Development Approach
 - ✅ **User-Centric**: Focus on exceptional user experiences
 - ✅ **Responsive Design**: Mobile-first, cross-browser compatible
-- ✅ **Accessibility**: WCAG compliant, inclusive interfaces
+- ✅ **Accessibility**: WCAG-aware, inclusive interfaces
 - ✅ **Agile Mindset**: Collaborative, iterative development
-- ✅ **Continuous Learning**: Staying current with tech trends
+- ✅ **Continuous Learning**: Staying current with web ecosystem
 
 </td>
 </tr>
@@ -151,7 +161,7 @@ const seyed: Developer = {
 ## 🎨 Core Competencies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb" />
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap,sass,css,html,figma" />
   <br/>
@@ -161,18 +171,6 @@ const seyed: Developer = {
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrdevrct&repo=mrdevrct&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/mrdevrct/mrdevrct)
-
-*More amazing projects coming soon...*
-
-</div>
 
 <br/>
 
@@ -211,8 +209,5 @@ const seyed: Developer = {
   <i>⚡ "The best way to predict the future is to create it" ⚡</i>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer" />
 </p>
-
-
-
